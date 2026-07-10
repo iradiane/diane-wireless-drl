@@ -1,0 +1,1762 @@
+[
+  {
+    "method": "Random",
+    "N": 3,
+    "seed": 2,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.1271073986014186,
+    "throughput_mbps": 1.1271073986014186,
+    "jain_index": 0.5284934351742268,
+    "energy_efficiency": 0.2488095802652138,
+    "avg_latency": 32.020341130840826,
+    "per_user_throughput": [
+      0.36854789991548753,
+      0.38047653245783297,
+      0.378082966228098
+    ],
+    "per_user_latency": [
+      32.520526665769296,
+      33.40752696954386,
+      30.132969757209327
+    ],
+    "wall_time_s": 0.46624231338500977
+  },
+  {
+    "method": "Random",
+    "N": 3,
+    "seed": 3,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.1516393589763139,
+    "throughput_mbps": 1.1516393589763139,
+    "jain_index": 0.529980581074953,
+    "energy_efficiency": 0.2543373142615534,
+    "avg_latency": 30.51183004438955,
+    "per_user_throughput": [
+      0.37345422458908795,
+      0.3913573949933634,
+      0.38682773939386245
+    ],
+    "per_user_latency": [
+      31.501579715798684,
+      30.413006572208076,
+      29.620903845161898
+    ],
+    "wall_time_s": 0.49414682388305664
+  },
+  {
+    "method": "Random",
+    "N": 3,
+    "seed": 0,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.1392903955060172,
+    "throughput_mbps": 1.1392903955060172,
+    "jain_index": 0.5351680860072374,
+    "energy_efficiency": 0.25278242633814446,
+    "avg_latency": 31.445881969242247,
+    "per_user_throughput": [
+      0.36807039990613705,
+      0.3731471867527868,
+      0.39807280884709323
+    ],
+    "per_user_latency": [
+      32.31900931986737,
+      32.09443201212914,
+      29.924204575730226
+    ],
+    "wall_time_s": 0.5057651996612549
+  },
+  {
+    "method": "Random",
+    "N": 3,
+    "seed": 4,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.1371779856571775,
+    "throughput_mbps": 1.1371779856571775,
+    "jain_index": 0.5308972258865833,
+    "energy_efficiency": 0.251978281776463,
+    "avg_latency": 31.80544893954396,
+    "per_user_throughput": [
+      0.3805558306134117,
+      0.37243465586902674,
+      0.38418749917473904
+    ],
+    "per_user_latency": [
+      32.03548042844986,
+      31.553548957971067,
+      31.827317432210954
+    ],
+    "wall_time_s": 0.4568979740142822
+  },
+  {
+    "method": "Random",
+    "N": 3,
+    "seed": 1,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.136274947121543,
+    "throughput_mbps": 1.136274947121543,
+    "jain_index": 0.5276081989556551,
+    "energy_efficiency": 0.25499886605061556,
+    "avg_latency": 31.407425459019596,
+    "per_user_throughput": [
+      0.36808395245742576,
+      0.38519873428590656,
+      0.38299226037821066
+    ],
+    "per_user_latency": [
+      32.05882305923306,
+      30.367595578327702,
+      31.795857739498025
+    ],
+    "wall_time_s": 0.5043187141418457
+  },
+  {
+    "method": "Random",
+    "N": 3,
+    "seed": 5,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.1512327130619706,
+    "throughput_mbps": 1.1512327130619706,
+    "jain_index": 0.5247308748513461,
+    "energy_efficiency": 0.2539110527265043,
+    "avg_latency": 30.24008226245255,
+    "per_user_throughput": [
+      0.3868753868827771,
+      0.3668588272190973,
+      0.3974984989600962
+    ],
+    "per_user_latency": [
+      30.281198256696573,
+      30.406024524083886,
+      30.033024006577193
+    ],
+    "wall_time_s": 0.47213220596313477
+  },
+  {
+    "method": "Random",
+    "N": 3,
+    "seed": 6,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.1386154241200566,
+    "throughput_mbps": 1.1386154241200566,
+    "jain_index": 0.5301019712835551,
+    "energy_efficiency": 0.2533071021401683,
+    "avg_latency": 32.03507607355928,
+    "per_user_throughput": [
+      0.3686610002359375,
+      0.3946094186691771,
+      0.3753450052149419
+    ],
+    "per_user_latency": [
+      32.04934144929057,
+      31.755712114288706,
+      32.30017465709856
+    ],
+    "wall_time_s": 0.43033838272094727
+  },
+  {
+    "method": "Random",
+    "N": 3,
+    "seed": 7,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.1370144574903134,
+    "throughput_mbps": 1.1370144574903134,
+    "jain_index": 0.5357453661561012,
+    "energy_efficiency": 0.25208168883501014,
+    "avg_latency": 32.278099186004425,
+    "per_user_throughput": [
+      0.3747015858177147,
+      0.3806187407040561,
+      0.3816941309685426
+    ],
+    "per_user_latency": [
+      31.30447248936261,
+      32.907742261898264,
+      32.62208280675241
+    ],
+    "wall_time_s": 0.46044063568115234
+  },
+  {
+    "method": "Random",
+    "N": 3,
+    "seed": 9,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.1451736797870762,
+    "throughput_mbps": 1.1451736797870762,
+    "jain_index": 0.5287621844559908,
+    "energy_efficiency": 0.25616232631407587,
+    "avg_latency": 30.457877347541114,
+    "per_user_throughput": [
+      0.39234071542909077,
+      0.3852847480024793,
+      0.36754821635550616
+    ],
+    "per_user_latency": [
+      29.494679419664696,
+      30.874578869884775,
+      31.00437375307387
+    ],
+    "wall_time_s": 0.4326810836791992
+  },
+  {
+    "method": "Random",
+    "N": 3,
+    "seed": 8,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.1419437632683511,
+    "throughput_mbps": 1.1419437632683511,
+    "jain_index": 0.5347005350738764,
+    "energy_efficiency": 0.25601250157344496,
+    "avg_latency": 31.651099427517124,
+    "per_user_throughput": [
+      0.377706038469114,
+      0.36676363939823203,
+      0.39747408540100515
+    ],
+    "per_user_latency": [
+      32.82695330330383,
+      32.019070263846864,
+      30.107274715400678
+    ],
+    "wall_time_s": 0.4756596088409424
+  },
+  {
+    "method": "Fixed",
+    "N": 3,
+    "seed": 0,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.2835842404001014,
+    "throughput_mbps": 1.2835842404001014,
+    "jain_index": 0.6739703134894371,
+    "energy_efficiency": 0.21393070673335024,
+    "avg_latency": 27.964587026865896,
+    "per_user_throughput": [
+      0.42648060919955605,
+      0.4454779584328353,
+      0.41162567276771006
+    ],
+    "per_user_latency": [
+      28.493751343884565,
+      28.07958166185298,
+      27.32042807486014
+    ],
+    "wall_time_s": 2.32769513130188
+  },
+  {
+    "method": "Fixed",
+    "N": 3,
+    "seed": 1,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.289849043694025,
+    "throughput_mbps": 1.289849043694025,
+    "jain_index": 0.6726909568458795,
+    "energy_efficiency": 0.21497484061567085,
+    "avg_latency": 29.02656373163349,
+    "per_user_throughput": [
+      0.4315726068407967,
+      0.4284539031134336,
+      0.42982253373979484
+    ],
+    "per_user_latency": [
+      28.66989637032902,
+      30.31194092884769,
+      28.097853895723773
+    ],
+    "wall_time_s": 2.4790637493133545
+  },
+  {
+    "method": "Fixed",
+    "N": 3,
+    "seed": 2,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.2991645292978027,
+    "throughput_mbps": 1.2991645292978027,
+    "jain_index": 0.6655440311133861,
+    "energy_efficiency": 0.2165274215496338,
+    "avg_latency": 29.132741117711948,
+    "per_user_throughput": [
+      0.4526935910802276,
+      0.4166817963164358,
+      0.42978914190113937
+    ],
+    "per_user_latency": [
+      29.157887487795232,
+      27.863938548360863,
+      30.37639731697975
+    ],
+    "wall_time_s": 2.284285306930542
+  },
+  {
+    "method": "Fixed",
+    "N": 3,
+    "seed": 4,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.2943809629359166,
+    "throughput_mbps": 1.2943809629359166,
+    "jain_index": 0.6633185251653194,
+    "energy_efficiency": 0.21573016048931942,
+    "avg_latency": 28.17186914073665,
+    "per_user_throughput": [
+      0.43863708933623274,
+      0.41418953644289286,
+      0.441554337156791
+    ],
+    "per_user_latency": [
+      28.135854101364444,
+      27.60205012526785,
+      28.77770319557766
+    ],
+    "wall_time_s": 2.29425048828125
+  },
+  {
+    "method": "Fixed",
+    "N": 3,
+    "seed": 3,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.2872293059815294,
+    "throughput_mbps": 1.2872293059815294,
+    "jain_index": 0.6752717234045267,
+    "energy_efficiency": 0.21453821766358822,
+    "avg_latency": 29.027536920175905,
+    "per_user_throughput": [
+      0.42654123819830786,
+      0.4385167140334688,
+      0.4221713537497526
+    ],
+    "per_user_latency": [
+      29.803307371166802,
+      27.673739071089077,
+      29.605564318271828
+    ],
+    "wall_time_s": 2.5099892616271973
+  },
+  {
+    "method": "Fixed",
+    "N": 3,
+    "seed": 5,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.2883645037751448,
+    "throughput_mbps": 1.2883645037751448,
+    "jain_index": 0.6694079981148243,
+    "energy_efficiency": 0.21472741729585748,
+    "avg_latency": 29.056476375519452,
+    "per_user_throughput": [
+      0.43623239077979814,
+      0.4247556507700792,
+      0.4273764622252675
+    ],
+    "per_user_latency": [
+      27.15756974877743,
+      30.68493617911656,
+      29.326923198664375
+    ],
+    "wall_time_s": 2.505941390991211
+  },
+  {
+    "method": "Water-Filling",
+    "N": 3,
+    "seed": 0,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.8610978964048823,
+    "throughput_mbps": 1.8610978964048823,
+    "jain_index": 0.5417457333766718,
+    "energy_efficiency": 0.20678865510131775,
+    "avg_latency": 20.120984050174943,
+    "per_user_throughput": [
+      0.625482633796565,
+      0.6157479094805792,
+      0.6198673531277382
+    ],
+    "per_user_latency": [
+      19.80661097142879,
+      21.429937770717167,
+      19.126403408378874
+    ],
+    "wall_time_s": 0.5168347358703613
+  },
+  {
+    "method": "Water-Filling",
+    "N": 3,
+    "seed": 1,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.879573956207624,
+    "throughput_mbps": 1.879573956207624,
+    "jain_index": 0.535705838407628,
+    "energy_efficiency": 0.20884155070909946,
+    "avg_latency": 20.499443524002793,
+    "per_user_throughput": [
+      0.6614467352911926,
+      0.5935911109521995,
+      0.6245361099642319
+    ],
+    "per_user_latency": [
+      19.775233775817103,
+      20.36788061065204,
+      21.355216185539234
+    ],
+    "wall_time_s": 0.5069363117218018
+  },
+  {
+    "method": "Water-Filling",
+    "N": 3,
+    "seed": 2,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.8501127284319274,
+    "throughput_mbps": 1.8501127284319274,
+    "jain_index": 0.5439514075815678,
+    "energy_efficiency": 0.2055680811383715,
+    "avg_latency": 20.227870327858923,
+    "per_user_throughput": [
+      0.6120144101451964,
+      0.6338047638287673,
+      0.6042935544579636
+    ],
+    "per_user_latency": [
+      20.944248289662482,
+      18.432420154991192,
+      21.306942538923096
+    ],
+    "wall_time_s": 0.427379846572876
+  },
+  {
+    "method": "Water-Filling",
+    "N": 3,
+    "seed": 3,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.88115889522057,
+    "throughput_mbps": 1.88115889522057,
+    "jain_index": 0.531006846753399,
+    "energy_efficiency": 0.20901765496636848,
+    "avg_latency": 19.19192844693696,
+    "per_user_throughput": [
+      0.6506348054333895,
+      0.5978163796098108,
+      0.6327077101773697
+    ],
+    "per_user_latency": [
+      18.614610575642278,
+      19.11414907076974,
+      19.84702569439887
+    ],
+    "wall_time_s": 0.42983460426330566
+  },
+  {
+    "method": "Water-Filling",
+    "N": 3,
+    "seed": 5,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.844193152726672,
+    "throughput_mbps": 1.844193152726672,
+    "jain_index": 0.5433412531253228,
+    "energy_efficiency": 0.20491035000983696,
+    "avg_latency": 21.494879026958998,
+    "per_user_throughput": [
+      0.5987392387273693,
+      0.619871908178121,
+      0.6255820058211815
+    ],
+    "per_user_latency": [
+      22.958981749265025,
+      22.004974891998714,
+      19.520680439613255
+    ],
+    "wall_time_s": 0.5250101089477539
+  },
+  {
+    "method": "Water-Filling",
+    "N": 3,
+    "seed": 4,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.8587807497803595,
+    "throughput_mbps": 1.8587807497803595,
+    "jain_index": 0.5353034417046574,
+    "energy_efficiency": 0.20653119461153224,
+    "avg_latency": 20.472730654112826,
+    "per_user_throughput": [
+      0.640198185782251,
+      0.601763981029036,
+      0.6168185829690725
+    ],
+    "per_user_latency": [
+      17.978275878521327,
+      22.899381360406743,
+      20.54053472341041
+    ],
+    "wall_time_s": 0.5355463027954102
+  },
+  {
+    "method": "Fixed",
+    "N": 3,
+    "seed": 6,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.28814521214609,
+    "throughput_mbps": 1.28814521214609,
+    "jain_index": 0.6746554138511419,
+    "energy_efficiency": 0.21469086869101495,
+    "avg_latency": 30.2307562265854,
+    "per_user_throughput": [
+      0.42490537634696013,
+      0.42995144083790365,
+      0.433288394961226
+    ],
+    "per_user_latency": [
+      31.43226356825075,
+      31.11664131195331,
+      28.14336379955213
+    ],
+    "wall_time_s": 2.2053213119506836
+  },
+  {
+    "method": "Water-Filling",
+    "N": 3,
+    "seed": 6,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.8660185775536848,
+    "throughput_mbps": 1.8660185775536848,
+    "jain_index": 0.5386302469701888,
+    "energy_efficiency": 0.20733539740709975,
+    "avg_latency": 19.41794137556289,
+    "per_user_throughput": [
+      0.6239517556223503,
+      0.6064712736074668,
+      0.6355955483238678
+    ],
+    "per_user_latency": [
+      20.612144564783907,
+      18.79826445748693,
+      18.84341510441783
+    ],
+    "wall_time_s": 0.5852715969085693
+  },
+  {
+    "method": "Water-Filling",
+    "N": 3,
+    "seed": 7,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.8520123929274948,
+    "throughput_mbps": 1.8520123929274948,
+    "jain_index": 0.5397417117657227,
+    "energy_efficiency": 0.20577915443719322,
+    "avg_latency": 21.074307690431436,
+    "per_user_throughput": [
+      0.620036583749195,
+      0.6191688645208786,
+      0.6128069446574212
+    ],
+    "per_user_latency": [
+      19.73942328981867,
+      20.993858938777116,
+      22.48964084269852
+    ],
+    "wall_time_s": 0.5801947116851807
+  },
+  {
+    "method": "Fixed",
+    "N": 3,
+    "seed": 7,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.296002089526788,
+    "throughput_mbps": 1.296002089526788,
+    "jain_index": 0.6692089383900166,
+    "energy_efficiency": 0.21600034825446468,
+    "avg_latency": 27.877320574956684,
+    "per_user_throughput": [
+      0.43533013438055057,
+      0.42270519752394464,
+      0.4379667576222928
+    ],
+    "per_user_latency": [
+      29.23213880488614,
+      26.92361953656048,
+      27.47620338342344
+    ],
+    "wall_time_s": 2.4377076625823975
+  },
+  {
+    "method": "Fixed",
+    "N": 3,
+    "seed": 8,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.2810170729688761,
+    "throughput_mbps": 1.2810170729688761,
+    "jain_index": 0.6737125581651926,
+    "energy_efficiency": 0.2135028454948127,
+    "avg_latency": 29.612433615872096,
+    "per_user_throughput": [
+      0.4303756124041029,
+      0.4260400506596634,
+      0.4246014099051099
+    ],
+    "per_user_latency": [
+      28.11826034824213,
+      29.43241659265278,
+      31.286623906721374
+    ],
+    "wall_time_s": 2.460050344467163
+  },
+  {
+    "method": "Water-Filling",
+    "N": 3,
+    "seed": 8,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.863592451926562,
+    "throughput_mbps": 1.863592451926562,
+    "jain_index": 0.5398397847024394,
+    "energy_efficiency": 0.2070658279836122,
+    "avg_latency": 19.83292101104494,
+    "per_user_throughput": [
+      0.6500048987391088,
+      0.6166389963676281,
+      0.5969485568198251
+    ],
+    "per_user_latency": [
+      19.39936065552406,
+      20.388543116656805,
+      19.710859260953953
+    ],
+    "wall_time_s": 0.6042170524597168
+  },
+  {
+    "method": "Fixed",
+    "N": 3,
+    "seed": 9,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.2890008607790007,
+    "throughput_mbps": 1.2890008607790007,
+    "jain_index": 0.6716045466512441,
+    "energy_efficiency": 0.21483347679650008,
+    "avg_latency": 28.575023062018563,
+    "per_user_throughput": [
+      0.442684899994696,
+      0.43008731161099056,
+      0.4162286491733139
+    ],
+    "per_user_latency": [
+      28.35492718099896,
+      29.206703612215215,
+      28.163438392841513
+    ],
+    "wall_time_s": 2.5813493728637695
+  },
+  {
+    "method": "Water-Filling",
+    "N": 3,
+    "seed": 9,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.8572360506851022,
+    "throughput_mbps": 1.8572360506851022,
+    "jain_index": 0.5421325709866851,
+    "energy_efficiency": 0.20635956123370022,
+    "avg_latency": 20.863438469191447,
+    "per_user_throughput": [
+      0.5974995766274873,
+      0.6670565169672041,
+      0.5926799570904109
+    ],
+    "per_user_latency": [
+      23.31806799410858,
+      18.089567783060957,
+      21.182679630404802
+    ],
+    "wall_time_s": 0.5971488952636719
+  },
+  {
+    "method": "WMMSE",
+    "N": 3,
+    "seed": 0,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.7584462663716405,
+    "throughput_mbps": 1.7584462663716405,
+    "jain_index": 0.5020290939509868,
+    "energy_efficiency": 0.34638949401588504,
+    "avg_latency": 21.194026947283344,
+    "per_user_throughput": [
+      0.5925873743396951,
+      0.561545359644806,
+      0.6043135323871393
+    ],
+    "per_user_latency": [
+      21.473391236074036,
+      21.111047760996268,
+      20.997641844779718
+    ],
+    "wall_time_s": 8.36764669418335
+  },
+  {
+    "method": "WMMSE",
+    "N": 3,
+    "seed": 1,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.7479571016517585,
+    "throughput_mbps": 1.7479571016517585,
+    "jain_index": 0.5099884170889855,
+    "energy_efficiency": 0.33796541021882415,
+    "avg_latency": 22.19214621049152,
+    "per_user_throughput": [
+      0.5864313643235947,
+      0.5722887712848024,
+      0.5892369660433615
+    ],
+    "per_user_latency": [
+      19.906974161754594,
+      24.665978779940108,
+      22.00348568977986
+    ],
+    "wall_time_s": 8.316248416900635
+  },
+  {
+    "method": "WMMSE",
+    "N": 3,
+    "seed": 4,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.7328546167298917,
+    "throughput_mbps": 1.7328546167298917,
+    "jain_index": 0.5159122938662768,
+    "energy_efficiency": 0.33244213270597445,
+    "avg_latency": 23.196342539222524,
+    "per_user_throughput": [
+      0.5764698933273903,
+      0.5841709403312416,
+      0.5722137830712599
+    ],
+    "per_user_latency": [
+      21.802530552752838,
+      22.636725854878605,
+      25.149771210036125
+    ],
+    "wall_time_s": 9.1564199924469
+  },
+  {
+    "method": "WMMSE",
+    "N": 3,
+    "seed": 2,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.7487183867503333,
+    "throughput_mbps": 1.7487183867503333,
+    "jain_index": 0.5107589651942253,
+    "energy_efficiency": 0.3380145717116717,
+    "avg_latency": 23.166158881579786,
+    "per_user_throughput": [
+      0.568684983564075,
+      0.596654666969087,
+      0.5833787362171715
+    ],
+    "per_user_latency": [
+      24.584689741158623,
+      23.22693821152591,
+      21.68684869205483
+    ],
+    "wall_time_s": 9.354966402053833
+  },
+  {
+    "method": "WMMSE",
+    "N": 3,
+    "seed": 3,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.7694517169496393,
+    "throughput_mbps": 1.7694517169496393,
+    "jain_index": 0.5005801333487034,
+    "energy_efficiency": 0.35115136276039677,
+    "avg_latency": 20.968974719297236,
+    "per_user_throughput": [
+      0.5958658407376497,
+      0.5703943439885043,
+      0.6031915322234854
+    ],
+    "per_user_latency": [
+      21.86437567909056,
+      20.64086117999011,
+      20.40168729881104
+    ],
+    "wall_time_s": 9.549983024597168
+  },
+  {
+    "method": "WMMSE",
+    "N": 3,
+    "seed": 5,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.7412547770854436,
+    "throughput_mbps": 1.7412547770854436,
+    "jain_index": 0.5111299718916417,
+    "energy_efficiency": 0.34025496376852826,
+    "avg_latency": 21.78988975539355,
+    "per_user_throughput": [
+      0.6117802472326439,
+      0.5791009841717314,
+      0.5503735456810682
+    ],
+    "per_user_latency": [
+      21.25644285791274,
+      22.432719699383888,
+      21.680506708884028
+    ],
+    "wall_time_s": 9.770025253295898
+  },
+  {
+    "method": "WMMSE",
+    "N": 3,
+    "seed": 7,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.77873469570803,
+    "throughput_mbps": 1.77873469570803,
+    "jain_index": 0.5082837270349264,
+    "energy_efficiency": 0.3499035498589613,
+    "avg_latency": 20.87622265481355,
+    "per_user_throughput": [
+      0.5591508543902309,
+      0.6168150731632486,
+      0.6027687681545504
+    ],
+    "per_user_latency": [
+      23.065250862486426,
+      19.07245582398551,
+      20.490961277968715
+    ],
+    "wall_time_s": 9.699492454528809
+  },
+  {
+    "method": "WMMSE",
+    "N": 3,
+    "seed": 6,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.7445708096412855,
+    "throughput_mbps": 1.7445708096412855,
+    "jain_index": 0.5111081291139126,
+    "energy_efficiency": 0.3386858492800011,
+    "avg_latency": 22.582917667051948,
+    "per_user_throughput": [
+      0.5562302760058082,
+      0.6290852983114458,
+      0.5592552353240317
+    ],
+    "per_user_latency": [
+      25.11538556098705,
+      19.784682858217682,
+      22.848684581951122
+    ],
+    "wall_time_s": 9.926677942276001
+  },
+  {
+    "method": "WMMSE",
+    "N": 3,
+    "seed": 9,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.7659971324274668,
+    "throughput_mbps": 1.7659971324274668,
+    "jain_index": 0.5017617429941893,
+    "energy_efficiency": 0.34977166417656297,
+    "avg_latency": 23.99649035300313,
+    "per_user_throughput": [
+      0.5879200362090488,
+      0.6014226928839344,
+      0.5766544033344835
+    ],
+    "per_user_latency": [
+      25.6280238060609,
+      23.035765577926476,
+      23.325681675022004
+    ],
+    "wall_time_s": 10.102937459945679
+  },
+  {
+    "method": "WMMSE",
+    "N": 3,
+    "seed": 8,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.7327499740974892,
+    "throughput_mbps": 1.7327499740974892,
+    "jain_index": 0.512000987648964,
+    "energy_efficiency": 0.335804258546025,
+    "avg_latency": 21.69502310745163,
+    "per_user_throughput": [
+      0.5825615591043607,
+      0.5771838221132203,
+      0.5730045928799081
+    ],
+    "per_user_latency": [
+      21.172187513656915,
+      23.750782865399056,
+      20.162098943298915
+    ],
+    "wall_time_s": 10.281702280044556
+  },
+  {
+    "method": "TabularQ",
+    "N": 3,
+    "seed": 0,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.4188368529308792,
+    "throughput_mbps": 1.4188368529308792,
+    "jain_index": 0.4701116568148136,
+    "energy_efficiency": 0.32504853446297344,
+    "avg_latency": 26.999660616340574,
+    "per_user_throughput": [
+      0.46223978666416404,
+      0.5131788923586555,
+      0.44341817390805954
+    ],
+    "per_user_latency": [
+      28.032390816312457,
+      24.164390092237596,
+      28.80220094047166
+    ],
+    "wall_time_s": 28.24592924118042
+  },
+  {
+    "method": "TabularQ",
+    "N": 3,
+    "seed": 1,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.4494065504760436,
+    "throughput_mbps": 1.4494065504760436,
+    "jain_index": 0.4607666771411896,
+    "energy_efficiency": 0.3265532388140236,
+    "avg_latency": 25.81884417931721,
+    "per_user_throughput": [
+      0.5605996985443635,
+      0.44958592056836644,
+      0.43922093136331386
+    ],
+    "per_user_latency": [
+      22.428433268655674,
+      25.815910756627957,
+      29.212188512667993
+    ],
+    "wall_time_s": 29.64835262298584
+  },
+  {
+    "method": "TabularQ",
+    "N": 3,
+    "seed": 3,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.457391374865991,
+    "throughput_mbps": 1.457391374865991,
+    "jain_index": 0.453590666398406,
+    "energy_efficiency": 0.3263668961742226,
+    "avg_latency": 27.597213567403937,
+    "per_user_throughput": [
+      0.5385106314858422,
+      0.47843919081942293,
+      0.440441552560726
+    ],
+    "per_user_latency": [
+      25.832779612430603,
+      28.74633932932865,
+      28.21252176045256
+    ],
+    "wall_time_s": 24.47336983680725
+  },
+  {
+    "method": "TabularQ",
+    "N": 3,
+    "seed": 2,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.4215528538237958,
+    "throughput_mbps": 1.4215528538237958,
+    "jain_index": 0.4726448589116335,
+    "energy_efficiency": 0.32537259185712886,
+    "avg_latency": 27.095231456576645,
+    "per_user_throughput": [
+      0.4466772976910288,
+      0.547436344003334,
+      0.42743921212943314
+    ],
+    "per_user_latency": [
+      27.260293277823628,
+      24.803095733337454,
+      29.222305358568857
+    ],
+    "wall_time_s": 26.590704679489136
+  },
+  {
+    "method": "TabularQ",
+    "N": 3,
+    "seed": 4,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.4123788912896706,
+    "throughput_mbps": 1.4123788912896706,
+    "jain_index": 0.505724823847413,
+    "energy_efficiency": 0.32675046646377576,
+    "avg_latency": 26.227223990834435,
+    "per_user_throughput": [
+      0.5097635988770925,
+      0.4276313587401819,
+      0.4749839336723962
+    ],
+    "per_user_latency": [
+      26.026512277280826,
+      26.76622103959581,
+      25.88893865562667
+    ],
+    "wall_time_s": 25.958406448364258
+  },
+  {
+    "method": "TabularQ",
+    "N": 3,
+    "seed": 5,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.4489845793850291,
+    "throughput_mbps": 1.4489845793850291,
+    "jain_index": 0.4822393064796925,
+    "energy_efficiency": 0.3248844348396926,
+    "avg_latency": 27.27305946006312,
+    "per_user_throughput": [
+      0.49668796682100586,
+      0.5113955927109346,
+      0.44090101985308866
+    ],
+    "per_user_latency": [
+      25.516852960667347,
+      25.737169580989516,
+      30.56515583853249
+    ],
+    "wall_time_s": 26.392491579055786
+  },
+  {
+    "method": "TabularQ",
+    "N": 3,
+    "seed": 6,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.4555292330779321,
+    "throughput_mbps": 1.4555292330779321,
+    "jain_index": 0.46315349924564364,
+    "energy_efficiency": 0.34532128898646075,
+    "avg_latency": 26.15480662051577,
+    "per_user_throughput": [
+      0.5180447957476426,
+      0.4425830515461057,
+      0.49490138578418374
+    ],
+    "per_user_latency": [
+      25.278447949112305,
+      28.803774125802025,
+      24.382197786632982
+    ],
+    "wall_time_s": 24.14806818962097
+  },
+  {
+    "method": "TabularQ",
+    "N": 3,
+    "seed": 7,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.4679369862985645,
+    "throughput_mbps": 1.4679369862985645,
+    "jain_index": 0.49306733152270316,
+    "energy_efficiency": 0.3129595962687484,
+    "avg_latency": 26.842015786949947,
+    "per_user_throughput": [
+      0.5047102573704433,
+      0.5278923229821871,
+      0.43533440594593414
+    ],
+    "per_user_latency": [
+      27.16964352241086,
+      24.661173328853074,
+      28.695230509585905
+    ],
+    "wall_time_s": 24.720527172088623
+  },
+  {
+    "method": "TabularQ",
+    "N": 3,
+    "seed": 8,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.4906592401454835,
+    "throughput_mbps": 1.4906592401454835,
+    "jain_index": 0.46656218920648096,
+    "energy_efficiency": 0.32240926573926326,
+    "avg_latency": 25.25557153068111,
+    "per_user_throughput": [
+      0.4466026653784647,
+      0.5005636208087672,
+      0.5434929539582517
+    ],
+    "per_user_latency": [
+      27.624122103934454,
+      24.669196126180672,
+      23.4733963619282
+    ],
+    "wall_time_s": 24.105127096176147
+  },
+  {
+    "method": "TabularQ",
+    "N": 3,
+    "seed": 9,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.4789542496284414,
+    "throughput_mbps": 1.4789542496284414,
+    "jain_index": 0.45081653006374833,
+    "energy_efficiency": 0.351212122922926,
+    "avg_latency": 25.53434769626828,
+    "per_user_throughput": [
+      0.5121773148342036,
+      0.4657549314411299,
+      0.5010220033531078
+    ],
+    "per_user_latency": [
+      23.799856319045766,
+      29.308475790849045,
+      23.494710978910035
+    ],
+    "wall_time_s": 23.9398672580719
+  },
+  {
+    "method": "DQN",
+    "N": 3,
+    "seed": 0,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.21907139782384,
+    "throughput_mbps": 1.21907139782384,
+    "jain_index": 0.6524353621304035,
+    "energy_efficiency": 0.243814279564768,
+    "avg_latency": 30.448672275410377,
+    "per_user_throughput": [
+      0.25760251876503026,
+      0.47376750162802456,
+      0.48770137743078523
+    ],
+    "per_user_latency": [
+      38.62186269491195,
+      25.13846812051115,
+      27.585686010808043
+    ],
+    "wall_time_s": 419.15675950050354
+  },
+  {
+    "method": "DQN",
+    "N": 3,
+    "seed": 1,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.318011246554779,
+    "throughput_mbps": 1.318011246554779,
+    "jain_index": 0.6386303132772446,
+    "energy_efficiency": 0.21966854109246317,
+    "avg_latency": 28.537734102409946,
+    "per_user_throughput": [
+      0.43429243656814104,
+      0.6701685227662346,
+      0.21355028722040334
+    ],
+    "per_user_latency": [
+      29.482973616471106,
+      16.39534733475602,
+      39.734881356002724
+    ],
+    "wall_time_s": 426.4689781665802
+  },
+  {
+    "method": "DQN",
+    "N": 3,
+    "seed": 2,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.1070711176619807,
+    "throughput_mbps": 1.1070711176619807,
+    "jain_index": 0.6532764108479023,
+    "energy_efficiency": 0.2767677794154952,
+    "avg_latency": 31.281707845695326,
+    "per_user_throughput": [
+      0.2843621730215964,
+      0.5352284421251534,
+      0.2874805025152309
+    ],
+    "per_user_latency": [
+      35.62954449108959,
+      21.710335116994262,
+      36.50524392900214
+    ],
+    "wall_time_s": 418.0517988204956
+  },
+  {
+    "method": "DQN",
+    "N": 3,
+    "seed": 3,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.3917980858478987,
+    "throughput_mbps": 1.3917980858478987,
+    "jain_index": 0.5029376842677593,
+    "energy_efficiency": 0.23196634764131643,
+    "avg_latency": 27.834241262048597,
+    "per_user_throughput": [
+      0.7002666127666598,
+      0.6915314730812387,
+      0.0
+    ],
+    "per_user_latency": [
+      14.604420655109687,
+      18.15180313103611,
+      50.7465
+    ],
+    "wall_time_s": 419.8738543987274
+  },
+  {
+    "method": "DQN",
+    "N": 3,
+    "seed": 4,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 0.8020916011307417,
+    "throughput_mbps": 0.8020916011307417,
+    "jain_index": 0.5137568390220404,
+    "energy_efficiency": 0.40104580056537087,
+    "avg_latency": 38.236378541559674,
+    "per_user_throughput": [
+      0.3994792991402901,
+      0.0,
+      0.40261230199045167
+    ],
+    "per_user_latency": [
+      32.61650243905804,
+      52.388,
+      29.704633185620985
+    ],
+    "wall_time_s": 421.7874720096588
+  },
+  {
+    "method": "DQN",
+    "N": 3,
+    "seed": 5,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.3174986447336088,
+    "throughput_mbps": 1.3174986447336088,
+    "jain_index": 0.6413848180174827,
+    "energy_efficiency": 0.21958310745560145,
+    "avg_latency": 27.789636149574363,
+    "per_user_throughput": [
+      0.4450043687788711,
+      0.6495200066314137,
+      0.22297426932332381
+    ],
+    "per_user_latency": [
+      28.820130507004972,
+      16.452035118699627,
+      38.09674282301849
+    ],
+    "wall_time_s": 420.96638321876526
+  },
+  {
+    "method": "DQN",
+    "N": 3,
+    "seed": 6,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.4136148669595276,
+    "throughput_mbps": 1.4136148669595276,
+    "jain_index": 0.6648284135311842,
+    "energy_efficiency": 0.17672394886354892,
+    "avg_latency": 27.537188914314356,
+    "per_user_throughput": [
+      0.5343378827498236,
+      0.35241915695114584,
+      0.5268578272585582
+    ],
+    "per_user_latency": [
+      23.228092344862713,
+      33.04961317572459,
+      26.33386122235577
+    ],
+    "wall_time_s": 1068.0324475765228
+  },
+  {
+    "method": "DQN",
+    "N": 3,
+    "seed": 7,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.3272771640314678,
+    "throughput_mbps": 1.3272771640314678,
+    "jain_index": 0.49414626552164553,
+    "energy_efficiency": 0.2874761022377015,
+    "avg_latency": 28.42487192983918,
+    "per_user_throughput": [
+      0.691971552331379,
+      0.5299902119819672,
+      0.10531539971812162
+    ],
+    "per_user_latency": [
+      17.45874001249671,
+      24.216957320542438,
+      43.598918456478394
+    ],
+    "wall_time_s": 1069.7686080932617
+  },
+  {
+    "method": "DQN",
+    "N": 3,
+    "seed": 8,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.4068908231531723,
+    "throughput_mbps": 1.4068908231531723,
+    "jain_index": 0.5009948622882366,
+    "energy_efficiency": 0.23448180385886205,
+    "avg_latency": 28.30740366931498,
+    "per_user_throughput": [
+      0.6796249376772175,
+      0.7272658854759547,
+      0.0
+    ],
+    "per_user_latency": [
+      18.65304427320708,
+      14.862666734737857,
+      51.4065
+    ],
+    "wall_time_s": 1064.5577940940857
+  },
+  {
+    "method": "DQN",
+    "N": 3,
+    "seed": 9,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.3882916714455278,
+    "throughput_mbps": 1.3882916714455278,
+    "jain_index": 0.6567299916446209,
+    "energy_efficiency": 0.19872483129767074,
+    "avg_latency": 26.545499473722398,
+    "per_user_throughput": [
+      0.3823560568469402,
+      0.40424490160887216,
+      0.6016907129897154
+    ],
+    "per_user_latency": [
+      30.617905725771124,
+      28.693213324978736,
+      20.32537937041733
+    ],
+    "wall_time_s": 1083.2187640666962
+  },
+  {
+    "method": "RainbowLite",
+    "N": 3,
+    "seed": 0,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.5160340117384912,
+    "throughput_mbps": 1.5160340117384912,
+    "jain_index": 0.5916577394902706,
+    "energy_efficiency": 0.2469915300975059,
+    "avg_latency": 25.982551036326452,
+    "per_user_throughput": [
+      0.5698716384042491,
+      0.6010520848651795,
+      0.34511028846906266
+    ],
+    "per_user_latency": [
+      23.67344162322198,
+      19.736114218486843,
+      34.53809726727054
+    ],
+    "wall_time_s": 1630.0369770526886
+  },
+  {
+    "method": "RainbowLite",
+    "N": 3,
+    "seed": 1,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.6917494284413062,
+    "throughput_mbps": 1.6917494284413062,
+    "jain_index": 0.4045468758046627,
+    "energy_efficiency": 0.41232011417043773,
+    "avg_latency": 22.91305559941773,
+    "per_user_throughput": [
+      0.572902792849247,
+      0.51606269627437,
+      0.6027839393176891
+    ],
+    "per_user_latency": [
+      22.993523448828892,
+      24.444599250836298,
+      21.301044098588005
+    ],
+    "wall_time_s": 1641.450127363205
+  },
+  {
+    "method": "RainbowLite",
+    "N": 3,
+    "seed": 2,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.588382170532408,
+    "throughput_mbps": 1.588382170532408,
+    "jain_index": 0.37091165179014207,
+    "energy_efficiency": 0.49902047456249077,
+    "avg_latency": 23.953882484586106,
+    "per_user_throughput": [
+      0.6912889317797962,
+      0.4674710284318135,
+      0.42962221032079834
+    ],
+    "per_user_latency": [
+      17.15432732148774,
+      25.31825608435445,
+      29.389064047916136
+    ],
+    "wall_time_s": 1165.8455152511597
+  },
+  {
+    "method": "RainbowLite",
+    "N": 3,
+    "seed": 4,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.6137545328022012,
+    "throughput_mbps": 1.6137545328022012,
+    "jain_index": 0.4367953334897757,
+    "energy_efficiency": 0.4019814504426955,
+    "avg_latency": 25.18744547074756,
+    "per_user_throughput": [
+      0.6707200394481315,
+      0.4585940022128634,
+      0.4844404911412062
+    ],
+    "per_user_latency": [
+      19.70540205861297,
+      29.670650443540595,
+      26.186283910089106
+    ],
+    "wall_time_s": 1159.1423025131226
+  },
+  {
+    "method": "RainbowLite",
+    "N": 3,
+    "seed": 3,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.636968989144073,
+    "throughput_mbps": 1.636968989144073,
+    "jain_index": 0.3681727718561888,
+    "energy_efficiency": 0.4593711208486244,
+    "avg_latency": 23.95618660408246,
+    "per_user_throughput": [
+      0.5673223421425937,
+      0.3633579406838107,
+      0.7062887063176686
+    ],
+    "per_user_latency": [
+      21.122665320151544,
+      34.22077704565795,
+      16.525117446437893
+    ],
+    "wall_time_s": 1164.1248836517334
+  },
+  {
+    "method": "RainbowLite",
+    "N": 3,
+    "seed": 5,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.4731875797836256,
+    "throughput_mbps": 1.4731875797836256,
+    "jain_index": 0.42679360109567643,
+    "energy_efficiency": 0.44534086450532817,
+    "avg_latency": 25.471413802292783,
+    "per_user_throughput": [
+      0.5097427359455032,
+      0.47387556868129466,
+      0.48956927515682763
+    ],
+    "per_user_latency": [
+      26.12809078219626,
+      24.751112647261078,
+      25.535037977421016
+    ],
+    "wall_time_s": 1160.3618717193604
+  },
+  {
+    "method": "RainbowLite",
+    "N": 3,
+    "seed": 6,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.5369793875619289,
+    "throughput_mbps": 1.5369793875619289,
+    "jain_index": 0.4152834514528513,
+    "energy_efficiency": 0.48500454009527577,
+    "avg_latency": 26.202343042799473,
+    "per_user_throughput": [
+      0.6270967714362996,
+      0.4569398518320522,
+      0.45294276429357705
+    ],
+    "per_user_latency": [
+      19.315401165501534,
+      28.726650014837155,
+      30.564977948059735
+    ],
+    "wall_time_s": 771.2602610588074
+  },
+  {
+    "method": "RainbowLite",
+    "N": 3,
+    "seed": 7,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.5176847169214107,
+    "throughput_mbps": 1.5176847169214107,
+    "jain_index": 0.46959144975245,
+    "energy_efficiency": 0.37093601782265934,
+    "avg_latency": 25.189988539130486,
+    "per_user_throughput": [
+      0.5156786773108761,
+      0.44900442514512723,
+      0.5530016144654073
+    ],
+    "per_user_latency": [
+      25.548787698308995,
+      28.453731413353616,
+      21.567446505728846
+    ],
+    "wall_time_s": 766.9825921058655
+  },
+  {
+    "method": "NeuralBandit",
+    "N": 3,
+    "seed": 0,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.7765405660835687,
+    "throughput_mbps": 1.7765405660835687,
+    "jain_index": 0.3337492292374373,
+    "energy_efficiency": 0.5922789018448303,
+    "avg_latency": 22.079987257475977,
+    "per_user_throughput": [
+      0.626629966929555,
+      0.5585329572781921,
+      0.5913776418758216
+    ],
+    "per_user_latency": [
+      21.371653466306626,
+      21.966099153086542,
+      22.902209153034768
+    ],
+    "wall_time_s": 404.6475148200989
+  },
+  {
+    "method": "NeuralBandit",
+    "N": 3,
+    "seed": 1,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.7560355893260569,
+    "throughput_mbps": 1.7560355893260569,
+    "jain_index": 0.3339790264219046,
+    "energy_efficiency": 0.5857356868999521,
+    "avg_latency": 22.004476793539904,
+    "per_user_throughput": [
+      0.5660271835401655,
+      0.6139430144875078,
+      0.5760653912983835
+    ],
+    "per_user_latency": [
+      23.671680756028742,
+      19.658470753516653,
+      22.683278871074318
+    ],
+    "wall_time_s": 399.54587602615356
+  },
+  {
+    "method": "NeuralBandit",
+    "N": 3,
+    "seed": 2,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.7733785821329802,
+    "throughput_mbps": 1.7733785821329802,
+    "jain_index": 0.33372413098812104,
+    "energy_efficiency": 0.5922119158901253,
+    "avg_latency": 21.182253782217078,
+    "per_user_throughput": [
+      0.5988304425124079,
+      0.5642182646654547,
+      0.6103298749551177
+    ],
+    "per_user_latency": [
+      21.50090930969082,
+      21.011621747493745,
+      21.03423028946668
+    ],
+    "wall_time_s": 371.26593494415283
+  },
+  {
+    "method": "NeuralBandit",
+    "N": 3,
+    "seed": 3,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.7657046858025716,
+    "throughput_mbps": 1.7657046858025716,
+    "jain_index": 0.3333333338052034,
+    "energy_efficiency": 0.5895508132896733,
+    "avg_latency": 21.94786190918802,
+    "per_user_throughput": [
+      0.5950534117072821,
+      0.5855475829197094,
+      0.58510369117558
+    ],
+    "per_user_latency": [
+      19.63375230024755,
+      24.197521149403414,
+      22.012312277913093
+    ],
+    "wall_time_s": 371.2631072998047
+  },
+  {
+    "method": "RainbowLite",
+    "N": 3,
+    "seed": 9,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.4937830558231946,
+    "throughput_mbps": 1.4937830558231946,
+    "jain_index": 0.568474759504199,
+    "energy_efficiency": 0.2582612475489617,
+    "avg_latency": 25.138821083708574,
+    "per_user_throughput": [
+      0.572143808165245,
+      0.46880639686180803,
+      0.45283285079614144
+    ],
+    "per_user_latency": [
+      21.73977897888307,
+      25.85287083789872,
+      27.82381343434393
+    ],
+    "wall_time_s": 575.7340347766876
+  },
+  {
+    "method": "RainbowLite",
+    "N": 3,
+    "seed": 8,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.5868822774687943,
+    "throughput_mbps": 1.5868822774687943,
+    "jain_index": 0.4209215958863497,
+    "energy_efficiency": 0.3915327602933122,
+    "avg_latency": 25.061538225549388,
+    "per_user_throughput": [
+      0.5361914681327453,
+      0.4080215014565565,
+      0.6426693078794924
+    ],
+    "per_user_latency": [
+      25.929188560361695,
+      30.158884992456137,
+      19.096541123830335
+    ],
+    "wall_time_s": 581.3655681610107
+  },
+  {
+    "method": "NeuralBandit",
+    "N": 3,
+    "seed": 4,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.7678865456432105,
+    "throughput_mbps": 1.7678865456432105,
+    "jain_index": 0.3325000001490116,
+    "energy_efficiency": 0.5913652937425022,
+    "avg_latency": 23.046759664071104,
+    "per_user_throughput": [
+      0.5686296654939651,
+      0.6029301630854607,
+      0.5963267170637846
+    ],
+    "per_user_latency": [
+      24.822014356404544,
+      23.060573126524687,
+      21.25769150928408
+    ],
+    "wall_time_s": 345.107036113739
+  },
+  {
+    "method": "NeuralBandit",
+    "N": 3,
+    "seed": 5,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.7853557711802424,
+    "throughput_mbps": 1.7853557711802424,
+    "jain_index": 0.33283333358168604,
+    "energy_efficiency": 0.5962116450760535,
+    "avg_latency": 20.940365999611714,
+    "per_user_throughput": [
+      0.6041610743999482,
+      0.5773216998875141,
+      0.6038729968927801
+    ],
+    "per_user_latency": [
+      21.939470457866786,
+      20.348379534557463,
+      20.533248006410897
+    ],
+    "wall_time_s": 343.1279125213623
+  },
+  {
+    "method": "NeuralBandit",
+    "N": 3,
+    "seed": 6,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.7498742722198368,
+    "throughput_mbps": 1.7498742722198368,
+    "jain_index": 0.33318538285791877,
+    "energy_efficiency": 0.584948778946962,
+    "avg_latency": 22.889764797250432,
+    "per_user_throughput": [
+      0.5982933132648468,
+      0.5851174104586243,
+      0.5664635484963656
+    ],
+    "per_user_latency": [
+      20.635070097789168,
+      22.644450754687192,
+      25.38977353927493
+    ],
+    "wall_time_s": 326.5280888080597
+  },
+  {
+    "method": "NeuralBandit",
+    "N": 3,
+    "seed": 7,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.7590645210891962,
+    "throughput_mbps": 1.7590645210891962,
+    "jain_index": 0.33283333347737787,
+    "energy_efficiency": 0.5873337299129203,
+    "avg_latency": 21.576647749612732,
+    "per_user_throughput": [
+      0.6135465844869613,
+      0.5880270041823387,
+      0.5574909324198961
+    ],
+    "per_user_latency": [
+      21.244507703199982,
+      22.18146880695224,
+      21.303966738685965
+    ],
+    "wall_time_s": 322.6685621738434
+  },
+  {
+    "method": "NeuralBandit",
+    "N": 3,
+    "seed": 8,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.7640465374588965,
+    "throughput_mbps": 1.7640465374588965,
+    "jain_index": 0.3326666674762964,
+    "energy_efficiency": 0.5891939002868726,
+    "avg_latency": 22.43810552045703,
+    "per_user_throughput": [
+      0.56151469437778,
+      0.6374975736141205,
+      0.5650342694669962
+    ],
+    "per_user_latency": [
+      24.88440695986152,
+      19.860823685005307,
+      22.569085916504264
+    ],
+    "wall_time_s": 320.93497705459595
+  },
+  {
+    "method": "NeuralBandit",
+    "N": 3,
+    "seed": 9,
+    "regime": "rayleigh_interference",
+    "throughput_bits_per_use": 1.8006102235913275,
+    "throughput_mbps": 1.8006102235913275,
+    "jain_index": 0.33360617244243623,
+    "energy_efficiency": 0.6002034078637759,
+    "avg_latency": 20.75291122439255,
+    "per_user_throughput": [
+      0.5636266243904829,
+      0.6124401830136776,
+      0.6245434161871671
+    ],
+    "per_user_latency": [
+      22.716730986893175,
+      19.598101178891955,
+      19.943901507392525
+    ],
+    "wall_time_s": 322.9660646915436
+  }
+]

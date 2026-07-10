@@ -1,0 +1,331 @@
+{
+  "3": {
+    "DQN": {
+      "throughput_mbps": {
+        "mean": 1.3490000000000002,
+        "std": 0.13419202658876567
+      },
+      "jain": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "energy_efficiency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "avg_latency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "n_seeds": 5
+    },
+    "Fixed": {
+      "throughput_mbps": {
+        "mean": 1.2895999999999999,
+        "std": 0.005440588203494188
+      },
+      "jain": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "energy_efficiency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "avg_latency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "n_seeds": 10
+    },
+    "IQL": {
+      "throughput_mbps": {
+        "mean": 1.2988,
+        "std": 0.12167251127514377
+      },
+      "jain": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "energy_efficiency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "avg_latency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "n_seeds": 5
+    },
+    "NeuralBandit": {
+      "throughput_mbps": {
+        "mean": 1.768,
+        "std": 0.007713624310270742
+      },
+      "jain": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "energy_efficiency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "avg_latency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "n_seeds": 5
+    },
+    "REGNN": {
+      "throughput_mbps": {
+        "mean": 1.4844,
+        "std": 0.17515364683614212
+      },
+      "jain": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "energy_efficiency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "avg_latency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "n_seeds": 5
+    },
+    "Random": {
+      "throughput_mbps": {
+        "mean": 1.1404999999999998,
+        "std": 0.007427426651719056
+      },
+      "jain": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "energy_efficiency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "avg_latency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "n_seeds": 10
+    },
+    "WMMSE": {
+      "throughput_mbps": {
+        "mean": 1.7521,
+        "std": 0.015516657715715216
+      },
+      "jain": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "energy_efficiency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "avg_latency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "n_seeds": 10
+    },
+    "Water-Filling": {
+      "throughput_mbps": {
+        "mean": 1.8614000000000002,
+        "std": 0.012038826077875384
+      },
+      "jain": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "energy_efficiency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "avg_latency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "n_seeds": 10
+    }
+  },
+  "5": {
+    "DQN": {
+      "throughput_mbps": {
+        "mean": 1.3492,
+        "std": 0.06857623495060076
+      },
+      "jain": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "energy_efficiency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "avg_latency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "n_seeds": 5
+    },
+    "Fixed": {
+      "throughput_mbps": {
+        "mean": 1.3793999999999997,
+        "std": 0.003596294389136339
+      },
+      "jain": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "energy_efficiency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "avg_latency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "n_seeds": 10
+    },
+    "IQL": {
+      "throughput_mbps": {
+        "mean": 1.3654,
+        "std": 0.10879705878377406
+      },
+      "jain": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "energy_efficiency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "avg_latency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "n_seeds": 5
+    },
+    "NeuralBandit": {
+      "throughput_mbps": {
+        "mean": 2.015,
+        "std": 0.0
+      },
+      "jain": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "energy_efficiency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "avg_latency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "n_seeds": 1
+    },
+    "REGNN": {
+      "throughput_mbps": {
+        "mean": 1.6042,
+        "std": 0.33956913876263844
+      },
+      "jain": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "energy_efficiency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "avg_latency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "n_seeds": 5
+    },
+    "Random": {
+      "throughput_mbps": {
+        "mean": 1.3224,
+        "std": 0.0076912648865811286
+      },
+      "jain": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "energy_efficiency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "avg_latency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "n_seeds": 10
+    },
+    "WMMSE": {
+      "throughput_mbps": {
+        "mean": 1.9375,
+        "std": 0.019477907713327143
+      },
+      "jain": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "energy_efficiency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "avg_latency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "n_seeds": 10
+    },
+    "Water-Filling": {
+      "throughput_mbps": {
+        "mean": 1.7312,
+        "std": 0.005711586664161025
+      },
+      "jain": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "energy_efficiency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "avg_latency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "n_seeds": 10
+    }
+  },
+  "10": {
+    "Random": {
+      "throughput_mbps": {
+        "mean": 1.425,
+        "std": 0.0037416573867739313
+      },
+      "jain": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "energy_efficiency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "avg_latency": {
+        "mean": 0.0,
+        "std": 0.0
+      },
+      "n_seeds": 10
+    }
+  }
+}
